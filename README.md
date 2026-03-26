@@ -22,14 +22,19 @@ Device age
 Charging cycles
 Battery temperature
 Usage patterns
+
+
 Output
 Predicted battery health (%)
 Recommended action
+
+
 Tech Stack
 Python
 Scikit-learn
 Streamlit
 Pandas
 Author
+
 
 Yuvesh Menghare
